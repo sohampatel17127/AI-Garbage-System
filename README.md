@@ -126,8 +126,8 @@ Soham Patel
 ### Upload Page
 ![Upload Page](screenshots/upload.png)
 
-### Result Page
-![Result Page](screenshots/dashboard.png)
+### result Page
+![result Page](screenshots/result.png)
 
 
 
