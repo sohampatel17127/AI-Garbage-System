@@ -118,5 +118,16 @@ npm start
 
 Soham Patel
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Upload Page
+![Upload Page](screenshots/upload.png)
+
+### Result Page
+![Result Page](screenshots/dashboard.png)
+
 
 
